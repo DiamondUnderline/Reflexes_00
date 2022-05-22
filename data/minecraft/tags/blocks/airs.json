@@ -1,0 +1,9 @@
+{
+  "__comment": "Created by Diamond_128_",
+  "replace": false,
+  "values": [
+    "minecraft:air",
+    "minecraft:cave_air",
+    "minecraft:void_air"
+  ]
+}

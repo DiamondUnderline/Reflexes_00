@@ -1,0 +1,30 @@
+# Created by Diamond_128_
+scoreboard players add @s reflex_reflexes_00_128 1
+execute if score @s reflex_reflexes_00_128 matches 1 run execute store result score @s random_number_reflexes_00_128 run loot spawn ~ ~ ~ loot reflexes_00_128:random_number/0_8
+execute if score @s reflex_reflexes_00_128 matches 1 if score @s random_number_reflexes_00_128 matches 0 run execute as @e[type=minecraft:armor_stand,tag=reflex_reflexes_00_128,limit=1,sort=nearest] at @s run function reflexes_00_128:system/reflex/task/16/name_0
+execute if score @s reflex_reflexes_00_128 matches 1 if score @s random_number_reflexes_00_128 matches 1 run execute as @e[type=minecraft:armor_stand,tag=reflex_reflexes_00_128,limit=1,sort=nearest] at @s run function reflexes_00_128:system/reflex/task/16/name_1
+execute if score @s reflex_reflexes_00_128 matches 1 if score @s random_number_reflexes_00_128 matches 2 run execute as @e[type=minecraft:armor_stand,tag=reflex_reflexes_00_128,limit=1,sort=nearest] at @s run function reflexes_00_128:system/reflex/task/16/name_2
+execute if score @s reflex_reflexes_00_128 matches 1 if score @s random_number_reflexes_00_128 matches 3 run execute as @e[type=minecraft:armor_stand,tag=reflex_reflexes_00_128,limit=1,sort=nearest] at @s run function reflexes_00_128:system/reflex/task/16/name_3
+execute if score @s reflex_reflexes_00_128 matches 1 if score @s random_number_reflexes_00_128 matches 4 run execute as @e[type=minecraft:armor_stand,tag=reflex_reflexes_00_128,limit=1,sort=nearest] at @s run function reflexes_00_128:system/reflex/task/16/name_4
+execute if score @s reflex_reflexes_00_128 matches 1 if score @s random_number_reflexes_00_128 matches 5 run execute as @e[type=minecraft:armor_stand,tag=reflex_reflexes_00_128,limit=1,sort=nearest] at @s run function reflexes_00_128:system/reflex/task/16/name_5
+execute if score @s reflex_reflexes_00_128 matches 1 if score @s random_number_reflexes_00_128 matches 6 run execute as @e[type=minecraft:armor_stand,tag=reflex_reflexes_00_128,limit=1,sort=nearest] at @s run function reflexes_00_128:system/reflex/task/16/name_6
+execute if score @s reflex_reflexes_00_128 matches 1 if score @s random_number_reflexes_00_128 matches 7 run execute as @e[type=minecraft:armor_stand,tag=reflex_reflexes_00_128,limit=1,sort=nearest] at @s run function reflexes_00_128:system/reflex/task/16/name_7
+execute if score @s reflex_reflexes_00_128 matches 1 if score @s random_number_reflexes_00_128 matches 8 run execute as @e[type=minecraft:armor_stand,tag=reflex_reflexes_00_128,limit=1,sort=nearest] at @s run function reflexes_00_128:system/reflex/task/16/name_8
+execute if score @s reflex_reflexes_00_128 matches 1 if score @s random_number_reflexes_00_128 matches 0 run execute as @a[tag=join_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/16/title_0
+execute if score @s reflex_reflexes_00_128 matches 1 if score @s random_number_reflexes_00_128 matches 1 run execute as @a[tag=join_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/16/title_1
+execute if score @s reflex_reflexes_00_128 matches 1 if score @s random_number_reflexes_00_128 matches 2 run execute as @a[tag=join_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/16/title_2
+execute if score @s reflex_reflexes_00_128 matches 1 if score @s random_number_reflexes_00_128 matches 3 run execute as @a[tag=join_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/16/title_3
+execute if score @s reflex_reflexes_00_128 matches 1 if score @s random_number_reflexes_00_128 matches 4 run execute as @a[tag=join_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/16/title_4
+execute if score @s reflex_reflexes_00_128 matches 1 if score @s random_number_reflexes_00_128 matches 5 run execute as @a[tag=join_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/16/title_5
+execute if score @s reflex_reflexes_00_128 matches 1 if score @s random_number_reflexes_00_128 matches 6 run execute as @a[tag=join_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/16/title_6
+execute if score @s reflex_reflexes_00_128 matches 1 if score @s random_number_reflexes_00_128 matches 7 run execute as @a[tag=join_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/16/title_7
+execute if score @s reflex_reflexes_00_128 matches 1 if score @s random_number_reflexes_00_128 matches 8 run execute as @a[tag=join_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/16/title_8
+execute if score @s reflex_reflexes_00_128 matches 30 if score @s random_number_reflexes_00_128 matches 0 run function reflexes_00_128:system/reflex/task/16/end_0
+execute if score @s reflex_reflexes_00_128 matches 30 if score @s random_number_reflexes_00_128 matches 1 run function reflexes_00_128:system/reflex/task/16/end_1
+execute if score @s reflex_reflexes_00_128 matches 30 if score @s random_number_reflexes_00_128 matches 2 run function reflexes_00_128:system/reflex/task/16/end_2
+execute if score @s reflex_reflexes_00_128 matches 30 if score @s random_number_reflexes_00_128 matches 3 run function reflexes_00_128:system/reflex/task/16/end_3
+execute if score @s reflex_reflexes_00_128 matches 30 if score @s random_number_reflexes_00_128 matches 4 run function reflexes_00_128:system/reflex/task/16/end_4
+execute if score @s reflex_reflexes_00_128 matches 30 if score @s random_number_reflexes_00_128 matches 5 run function reflexes_00_128:system/reflex/task/16/end_5
+execute if score @s reflex_reflexes_00_128 matches 30 if score @s random_number_reflexes_00_128 matches 6 run function reflexes_00_128:system/reflex/task/16/end_6
+execute if score @s reflex_reflexes_00_128 matches 30 if score @s random_number_reflexes_00_128 matches 7 run function reflexes_00_128:system/reflex/task/16/end_7
+execute if score @s reflex_reflexes_00_128 matches 30 if score @s random_number_reflexes_00_128 matches 8 run function reflexes_00_128:system/reflex/task/16/end_8

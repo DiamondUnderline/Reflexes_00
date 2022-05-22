@@ -1,0 +1,25 @@
+# Created by Diamond_128_
+execute as @e[type=minecraft:marker,tag=reflex_reflexes_00_128,tag=00,tag=hit_reflexes_00_128,tag=!ended_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/00
+execute as @e[type=minecraft:marker,tag=reflex_reflexes_00_128,tag=01,tag=hit_reflexes_00_128,tag=!ended_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/01
+execute as @e[type=minecraft:marker,tag=reflex_reflexes_00_128,tag=02,tag=hit_reflexes_00_128,tag=!ended_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/02
+execute as @e[type=minecraft:marker,tag=reflex_reflexes_00_128,tag=03,tag=hit_reflexes_00_128,tag=!ended_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/03
+execute as @e[type=minecraft:marker,tag=reflex_reflexes_00_128,tag=04,tag=hit_reflexes_00_128,tag=!ended_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/04
+execute as @e[type=minecraft:marker,tag=reflex_reflexes_00_128,tag=05,tag=hit_reflexes_00_128,tag=!ended_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/05
+execute as @e[type=minecraft:marker,tag=reflex_reflexes_00_128,tag=06,tag=hit_reflexes_00_128,tag=!ended_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/06
+execute as @e[type=minecraft:marker,tag=reflex_reflexes_00_128,tag=07,tag=hit_reflexes_00_128,tag=!ended_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/07
+execute as @e[type=minecraft:marker,tag=reflex_reflexes_00_128,tag=08,tag=hit_reflexes_00_128,tag=!ended_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/08
+execute as @e[type=minecraft:marker,tag=reflex_reflexes_00_128,tag=09,tag=hit_reflexes_00_128,tag=!ended_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/09
+execute as @e[type=minecraft:marker,tag=reflex_reflexes_00_128,tag=10,tag=hit_reflexes_00_128,tag=!ended_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/10
+execute as @e[type=minecraft:marker,tag=reflex_reflexes_00_128,tag=11,tag=hit_reflexes_00_128,tag=!ended_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/11
+execute as @e[type=minecraft:marker,tag=reflex_reflexes_00_128,tag=12,tag=hit_reflexes_00_128,tag=!ended_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/12
+execute as @e[type=minecraft:marker,tag=reflex_reflexes_00_128,tag=13,tag=hit_reflexes_00_128,tag=!ended_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/13
+execute as @e[type=minecraft:marker,tag=reflex_reflexes_00_128,tag=14,tag=hit_reflexes_00_128,tag=!ended_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/14
+execute as @e[type=minecraft:marker,tag=reflex_reflexes_00_128,tag=15,tag=hit_reflexes_00_128,tag=!ended_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/15
+execute as @e[type=minecraft:marker,tag=reflex_reflexes_00_128,tag=16,tag=hit_reflexes_00_128,tag=!ended_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/16
+execute as @e[type=minecraft:marker,tag=reflex_reflexes_00_128,tag=17,tag=hit_reflexes_00_128,tag=!ended_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/17
+execute as @e[type=minecraft:marker,tag=reflex_reflexes_00_128,tag=18,tag=hit_reflexes_00_128,tag=!ended_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/18
+execute as @e[type=minecraft:marker,tag=reflex_reflexes_00_128,tag=19,tag=hit_reflexes_00_128,tag=!ended_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/19
+execute as @e[type=minecraft:marker,tag=reflex_reflexes_00_128,tag=20,tag=hit_reflexes_00_128,tag=!ended_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/20
+execute as @e[type=minecraft:marker,tag=reflex_reflexes_00_128,tag=21,tag=hit_reflexes_00_128,tag=!ended_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/21
+execute as @e[type=minecraft:marker,tag=reflex_reflexes_00_128,tag=22,tag=hit_reflexes_00_128,tag=!ended_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/22
+execute as @e[type=minecraft:marker,tag=reflex_reflexes_00_128,tag=23,tag=hit_reflexes_00_128,tag=!ended_reflexes_00_128] at @s run function reflexes_00_128:system/reflex/task/23

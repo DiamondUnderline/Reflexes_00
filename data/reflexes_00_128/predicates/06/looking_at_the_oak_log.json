@@ -1,0 +1,13 @@
+{
+  "__comment": "Created by Diamond_128_",
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "player": {
+      "looking_at": {
+        "type": "minecraft:falling_block",
+        "nbt": "{Tags:[\"reflex_reflexes_00_128\"]}"
+      }
+    }
+  }
+}

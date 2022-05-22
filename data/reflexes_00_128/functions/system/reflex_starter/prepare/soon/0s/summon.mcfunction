@@ -1,0 +1,3 @@
+# Created by Diamond_128_
+execute if score \reflexes_00_128\ language_reflexes_00_128 matches 0 run summon minecraft:armor_stand ~ ~ ~ {Tags:["reflex_reflexes_00_128"],Invisible:true,Marker:true,Small:true,CustomName:'["",{"translate":"This position is the center"}]',CustomNameVisible:true}
+execute if score \reflexes_00_128\ language_reflexes_00_128 matches 1 run summon minecraft:armor_stand ~ ~ ~ {Tags:["reflex_reflexes_00_128"],Invisible:true,Marker:true,Small:true,CustomName:'["",{"translate":"ここの位置が中心です"}]',CustomNameVisible:true}

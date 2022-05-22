@@ -1,0 +1,12 @@
+{
+  "__comment": "Created by Diamond_128_",
+  "replace": false,
+  "values": [
+    "minecraft:drowned",
+    "minecraft:phantom",
+    "minecraft:skeleton",
+    "minecraft:stray",
+    "minecraft:zombie",
+    "minecraft:zombie_villager"
+  ]
+}
